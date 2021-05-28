@@ -21,5 +21,17 @@ public class MobileTest {
 	{
 		System.out.println("Mobile3 Test Case");
 	}
+	
+	@Test
+	public void mobile4()
+	{
+		System.out.println("Mobile2 Test Case");
+	}
+	
+	@Test
+	public void mobile5()
+	{
+		System.out.println("Mobile3 Test Case");
+	}
 
 }
